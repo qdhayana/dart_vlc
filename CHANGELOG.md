@@ -1,3 +1,7 @@
+## 0.4.1
+
+- bumped `audio_video_progress_bar` to `2.0.2`
+
 ## 0.4.0
 
 - Bumped `ffi` to `2.0.1`.
